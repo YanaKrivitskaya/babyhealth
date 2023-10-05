@@ -1,0 +1,6 @@
+{
+  "appTitle": "babyhealth",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
